@@ -1,4 +1,4 @@
-# Timer Challenge -- React App
+# Timer Challenge - React App
 
 A small React project focused on **refs management**, **imperative
 component control**, and **accurate state-driven UI updates**.
