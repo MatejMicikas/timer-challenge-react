@@ -27,7 +27,7 @@ intermediate React concepts such as `useRef`, `forwardRef`,
     `useImperativeHandle`)
 -   Dynamic UI state (active timer, win/loss state)
 
---
+---
 
 ## Tech Stack
 
@@ -37,7 +37,7 @@ intermediate React concepts such as `useRef`, `forwardRef`,
 -   **CSS**
 -   Native HTML `<dialog>` element
 
---
+---
 
 ## Project Structure
 
@@ -62,7 +62,7 @@ src/
 -   Derived state (`score`, formatted time, active state)
 -   Interval management and cleanup logic
 
---
+---
 
 ## Key Concepts Demonstrated
 
@@ -74,7 +74,7 @@ src/
 -   Conditional rendering
 -   Encapsulation of UI logic into reusable components
 
---
+---
 
 ## How It Works
 
@@ -90,7 +90,7 @@ higher the score.
 
 If the timer reaches zero before stopping, the player loses.
 
---
+---
 
 ## Getting Started
 
@@ -117,7 +117,7 @@ The app will be available at:
 
     http://localhost:5173
 
---
+---
 
 ## Possible Improvements
 
@@ -128,7 +128,7 @@ The app will be available at:
 -   Add unit tests for timer logic
 -   Convert to TypeScript
 
---
+---
 
 ## 👤 Author
 
@@ -136,7 +136,7 @@ Matej Micikáš\
 Front-end / JavaScript developer\
 Interested in clean React architecture and maintainable code
 
---
+---
 
 ## License
 
